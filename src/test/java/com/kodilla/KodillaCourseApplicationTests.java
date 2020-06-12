@@ -1,4 +1,4 @@
-/*
+
 package com.kodilla;
 
 import org.junit.jupiter.api.Test;
@@ -12,4 +12,3 @@ class KodillaCourseApplicationTests {
     }
 
 }
-*/
